@@ -20,7 +20,7 @@ var marker = new google.maps.Marker({
             });
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ35SNIok6htTXFQ_EGrO8lVQxyvYMAKA&callback=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=api_key&callback=myMap"></script>
 
 </body>
 </html>
